@@ -1,3 +1,9 @@
+What is a remote repository?
+
+rmeote repository is a Git repository which is exactly like a local one with 
+branches, commits and so on except that its located on the Internet or on a remote 
+network so you can share whatever you've worked on your local machine with other developers.
+
 What is the difference between a merge and a rebase?
 
 Merge allows you to merge multiple github branches together. Merging is usually the
