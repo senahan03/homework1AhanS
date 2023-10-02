@@ -1,0 +1,9 @@
+What is the difference between a merge and a rebase?
+
+Merge allows you to merge multiple github branches together. Merging is usually the
+less destructive option but it can get quite difficult to read the branches history 
+after multiple commits. 
+
+To rebase is to rebase a new branch onto the main one making sure that all new commits
+are included in the main branch. Rebasing gives a much cleaner branch history but can 
+rewrite the previous history of the main branch.
